@@ -1,0 +1,10 @@
+E:\projects\DatGen\DatGen.BL.Test\bin\Debug\DatGen.BL.Test.dll
+E:\projects\DatGen\DatGen.BL.Test\bin\Debug\DatGen.BL.Test.pdb
+E:\projects\DatGen\DatGen.BL.Test\bin\Debug\DatGen.BL.dll
+E:\projects\DatGen\DatGen.BL.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\projects\DatGen\DatGen.BL.Test\bin\Debug\DatGen.Dat.dll
+E:\projects\DatGen\DatGen.BL.Test\bin\Debug\DatGen.BL.pdb
+E:\projects\DatGen\DatGen.BL.Test\bin\Debug\DatGen.Dat.pdb
+E:\projects\DatGen\DatGen.BL.Test\obj\Debug\DatGen.BL.Test.csprojResolveAssemblyReference.cache
+E:\projects\DatGen\DatGen.BL.Test\obj\Debug\DatGen.BL.Test.dll
+E:\projects\DatGen\DatGen.BL.Test\obj\Debug\DatGen.BL.Test.pdb

@@ -1,0 +1,15 @@
+E:\projects\DatGen\DatGen\bin\Debug\DatGen.exe.config
+E:\projects\DatGen\DatGen\bin\Debug\DatGen.exe
+E:\projects\DatGen\DatGen\bin\Debug\DatGen.pdb
+E:\projects\DatGen\DatGen\obj\Debug\DatGen.csprojResolveAssemblyReference.cache
+E:\projects\DatGen\DatGen\obj\Debug\DatGen.exe
+E:\projects\DatGen\DatGen\obj\Debug\DatGen.pdb
+E:\projects\DatGen\DatGen\bin\Debug\DatGen.BL.dll
+E:\projects\DatGen\DatGen\bin\Debug\DatGen.Dat.dll
+E:\projects\DatGen\DatGen\bin\Debug\DatGen.BL.pdb
+E:\projects\DatGen\DatGen\bin\Debug\DatGen.Dat.pdb
+E:\projects\DatGen\DatGen\bin\Debug\Files\EnglishWord.txt
+E:\projects\DatGen\DatGen\bin\Debug\Files\FemaleNames.txt
+E:\projects\DatGen\DatGen\bin\Debug\Files\MaleNames.txt
+E:\projects\DatGen\DatGen\bin\Debug\Files\patronymic.txt
+E:\projects\DatGen\DatGen\bin\Debug\Files\surnames.txt

@@ -1,0 +1,7 @@
+E:\projects\DatGen\DatGen.BL\bin\Debug\DatGen.BL.dll
+E:\projects\DatGen\DatGen.BL\bin\Debug\DatGen.BL.pdb
+E:\projects\DatGen\DatGen.BL\bin\Debug\DatGen.Dat.dll
+E:\projects\DatGen\DatGen.BL\bin\Debug\DatGen.Dat.pdb
+E:\projects\DatGen\DatGen.BL\obj\Debug\DatGen.BL.csprojResolveAssemblyReference.cache
+E:\projects\DatGen\DatGen.BL\obj\Debug\DatGen.BL.dll
+E:\projects\DatGen\DatGen.BL\obj\Debug\DatGen.BL.pdb
