@@ -76,14 +76,14 @@ namespace DatGen.BL
 
         public string GetInsertLine()
         {
-            string result = @"INSERT INTO BlogUser (Name, Surname, Patronymic, Email, Login, Password, RegistrationDate)";
+            string result = $"INSERT INTO BlogUsers (Name, Surname, Patronymic, Email, Login, Password, RegistrationDate) VALUES";
 
             return result;
         }
 
         public string GetValueLine(UserEntity entity)
         {
-            string result = $"VALUES ('{entity.Name}', '{entity.Surname}', '{entity.Patronymic}', '{entity.Email}', '{entity.Login}', '{entity.Password}', '{entity.RegistrationDate.ToString("yyyMMdd")}')";
+            string result = $"(N'{entity.Name}', N'{entity.Surname}', N'{entity.Patronymic}', '{entity.Email}', '{entity.Login}', '{entity.Password}', '{entity.RegistrationDate.ToString("yyyMMdd")}')";
 
             return result;
         }

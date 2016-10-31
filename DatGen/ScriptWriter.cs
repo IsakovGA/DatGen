@@ -62,9 +62,9 @@ namespace DatGen
                         bool isNew = queue.TryDequeue(out valueLine);
                         if (isNew)
                         {
-                            if (i>1) writer.WriteLine(",");
+                            if (i > 1) writer.WriteLine(",");
                             writer.Write(valueLine);
-                            
+
                             i++;
                         }
                     }

@@ -94,7 +94,7 @@ namespace DatGen.BL.Test
                 Email = "petr@mail.ru",
                 RegistrationDate = new DateTime(2016, 1, 1)
             };
-            const string exp_result = @"VALUES ('Петр', 'Петров', 'Петрович', 'petr@mail.ru', 'petr', '12345', '20160101')";
+            const string exp_result = @"(N'Петр', N'Петров', N'Петрович', 'petr@mail.ru', 'petr', '12345', '20160101')";
 
             string result = _generator.GetValueLine(user);
 
@@ -105,7 +105,7 @@ namespace DatGen.BL.Test
         public void GetInsertLine_test()
         {
 
-            const string exp_result = @"INSERT INTO BlogUser (Name, Surname, Patronymic, Email, Login, Password, RegistrationDate)";
+            const string exp_result = @"INSERT INTO BlogUsers (Name, Surname, Patronymic, Email, Login, Password, RegistrationDate) VALUES";
 
             string result = _generator.GetInsertLine();
 

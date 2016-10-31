@@ -1,5 +1,4 @@
 E:\projects\DatGen\DatGen.Dat\bin\Debug\DatGen.Dat.dll
 E:\projects\DatGen\DatGen.Dat\bin\Debug\DatGen.Dat.pdb
-E:\projects\DatGen\DatGen.Dat\obj\Debug\DatGen.Dat.csprojResolveAssemblyReference.cache
 E:\projects\DatGen\DatGen.Dat\obj\Debug\DatGen.Dat.dll
 E:\projects\DatGen\DatGen.Dat\obj\Debug\DatGen.Dat.pdb
